@@ -1,2 +1,2 @@
-# Adaptive_Composite
-Adaptive_Composite
+# KUKA Robot
+ADAPTIVE Composite Controller Design Using Matlab
